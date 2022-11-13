@@ -183,7 +183,7 @@ body {
     
 
 .header__main {
-    background: url(/img/image_02-7.png) center/cover no-repeat;
+    background: url(../img/image_02-7.png) center/cover no-repeat;
 
 }
 .greyBg {
@@ -337,7 +337,7 @@ body {
     left: -84px;
     width: 59px;
     height: 59px;
-    background: url(/img/aboutIcone.png);
+    background: url(../img/aboutIcone.png);
 
 
 
@@ -645,7 +645,7 @@ padding: 0px 0px 25px 0px;
 
 }
 .choose__inner-content-text::before {
-    background: url(/img/choose/icon.png);
+    background: url(../img/choose/icon.png);
     width: 13px;
     height: 13px;
     content: "";
@@ -673,7 +673,7 @@ padding: 0px 0px 25px 0px;
 
 .choose__inner-content-bottom::before {
     content: "";
-    background: url(/img/choose/icon_bottom.png);
+    background: url(../img/choose/icon_bottom.png);
     position: absolute;
     width: 46px;
     height: 46px;
@@ -1141,16 +1141,16 @@ input::placeholder {
     content: "";
     width: 17px;
     height: 17px;
-    background: url(/img/data/Forma1.png) no-repeat;
+    background: url(../img/data/Forma1.png) no-repeat;
     position: absolute;
     top: 0px;
     left: -30px;
 }
 .data__inner-item:nth-child(2) a::before {
-    background: url(/img/data/forma2.png)no-repeat;
+    background: url(../img/data/forma2.png)no-repeat;
 }
 .data__inner-item:nth-child(3) span::before {
-    background: url(/img/data/forma3.png)no-repeat;
+    background: url(../img/data/forma3.png)no-repeat;
 }
 
 .data__inner-item:first-child,
@@ -1295,7 +1295,7 @@ input::placeholder {
 .footer__inner-forma-miny button {
     width: 50px; 
     height: 50px;
-    background-image: url(/img/footer/send.png);
+    background-image: url(../img/footer/send.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #f2a93d;
